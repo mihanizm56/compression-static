@@ -4,7 +4,7 @@
 
 ## Как использовать
 ```bash
-npx @mihanizm56/compression --gzip --dir='["test-folder","test-folder/static/js", "test-folder/static/css", "test-folder/_assets"]' --brotli
+'npx @mihanizm56/compression --gzip --dir=\'["build","build/static/js", "build/static/css", "build/_assets"]\' --brotli'
 ```
 
 ## Флаги
