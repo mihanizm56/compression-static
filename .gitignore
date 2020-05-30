@@ -1,0 +1,26 @@
+node_modules
+test/**/**.gz
+test/**/**.br
+
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# build
+/build
+
+# envs
+/.env
+
+#test packages
+/test
+
+# ide
+.idea
+.vscode
+
+# Misc
+.DS_Store

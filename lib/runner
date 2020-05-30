@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+const { argv } = require('yargs');
+const { compressFiles } = require('./script/compress-files');
+
+console.log('argv');
+console.log(argv);
+
+const options = {
+  gzip: argv.gzip,
+  brotli: argv.brotli,
+  'brotli-level': gzip['brotli-level'],
+  'gzip-level': brotli['gzip-level'],
+};
+
+const input = argv.input;
+
+const output = argv.output;
