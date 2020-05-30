@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.module.scss"],"names":[],"mappings":"AAEA,sBACE,iBAAkB,CAClB,iCAAoC","file":"3.419e9251.chunk.css","sourcesContent":["@import \"@/styles/media.module\";\n\n.homePage {\n  position: relative;\n  font-family: Lato, Arial, sans-serif;\n}\n\n"]}
