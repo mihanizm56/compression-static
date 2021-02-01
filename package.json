@@ -1,6 +1,7 @@
 {
   "name": "@mihanizm56/compression",
-  "version": "0.0.5-beta.2",
+  "version": "0.0.5-beta.3",
+  "main": "lib/index.js",
   "description": "Library for compression",
   "license": "MIT",
   "repository": {
